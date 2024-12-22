@@ -2,7 +2,7 @@
 CHANGELOG - Slingloader Trainer
 ===============================
 
-[v0.0.1] - 2024-DEC-08
+[v0.0.1] - 2024-DEC-21
 ----------------------
 
 ### Added
@@ -11,6 +11,7 @@ CHANGELOG - Slingloader Trainer
   * Dynamic Slots for lift-capable helos
   * Dynamic cargo generation
   * Three target drop points to practice at
+* Release of SlingloadTrainer-006.miz
 
 ### Changed
 
